@@ -1,4 +1,4 @@
-# Shopping Cart App based on ReactJS and ReduxToolkits
+# Shopping Cart App based on ReactJS and Redux Toolkit
 
 ## Available Scripts
 
