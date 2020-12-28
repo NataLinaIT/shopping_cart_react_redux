@@ -1,0 +1,77 @@
+h3 {
+  text-align: center;
+}
+.cart_content {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.table_cart {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.table_item {
+  position: relative;
+}
+.table_header div,
+.table_item div {
+  max-height: 15px;
+}
+.table_header div {
+  border-bottom: none;
+}
+.table_header div:first-of-type,
+.table_item div:first-of-type {
+  max-width: 130px;
+}
+.table_header {
+  font-weight: bold;
+}
+.table_header,
+.table_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.table_header div,
+.table_item div {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+}
+.table_item img {
+  width: 30px;
+  height: 100%;
+  position: relative;
+  margin-top: -8px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.order_total {
+  text-align: right;
+  margin-top: 15px;
+  margin-right: 100px;
+}
+.total_sum {
+  font-weight: bold;
+}
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+i {
+  display: inline-block;
+  cursor: pointer;
+  color: rgb(110, 26, 40);
+}
+.fa-minus {
+  margin-right: 15px;
+}
+.fa-plus {
+  margin-left: 15px;
+}
+.fa-times {
+  position: absolute;
+  right: 25px;
+}

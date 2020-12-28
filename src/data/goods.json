@@ -1,0 +1,62 @@
+[
+    {
+        "articul": "284s",
+        "title": "Apple",
+        "cost": 70,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png"
+    },
+    {
+        "articul": "778d",
+        "title": "Lemon",
+        "cost": 45,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png"
+    },
+    {
+        "articul": "704a",
+        "title": "Kiwi",
+        "cost": 85,
+        "image": "https://cdn2.iconfinder.com/data/icons/shiny-fruits/100/kiwi-3-512.png"
+    },
+    {
+        "articul": "330z",
+        "title": "Amoras",
+        "cost": 115,
+        "image": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_amoras-512.png"
+    },
+    {
+        "articul": "349g",
+        "title": "Watermelon",
+        "cost": 90,
+        "image": "https://cdn2.iconfinder.com/data/icons/shiny-fruits/100/watermelon-3-512.png"
+    },
+    {
+        "articul": "598f",
+        "title": "Mangosteen",
+        "cost": 115,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Mangosteen-512.png"
+    },
+    {
+        "articul": "980l",
+        "title": "Pineapple",
+        "cost": 95,
+        "image": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_abacaxi-256.png"
+    },
+    {
+        "articul": "417c",
+        "title": "Cherry",
+        "cost": 65,
+        "image": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_cerejas-256.png"
+    },
+    {
+        "articul": "729k",
+        "title": "Strawberry",
+        "cost": 100,
+        "image": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Strawberry-256.png"
+    },
+    {
+        "articul": "932n",
+        "title": "Cranberries",
+        "cost": 120,
+        "image": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Black_Berries-512.png"
+    }
+]
